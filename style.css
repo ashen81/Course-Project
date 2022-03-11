@@ -1,0 +1,189 @@
+h1,h2{
+    color: lightblue;
+    font-weight: normal;
+    line-height: 1.1em;
+    margin: 0 0 .5em 0;
+}
+
+h4{
+  display: inline-block;
+    font-size: 15px;
+    margin-left: 18px;
+    float:right;
+}
+
+h6{
+  color: darkblue;
+  font-size: 18px;
+  margin: 0 auto;
+  padding:40px;
+}
+
+input{
+  width:100%;
+}
+
+form{
+  font-size: 18px;
+  Color: darkblue;
+  width:330px;
+  margin: 0 auto;
+  padding:40px;
+
+}
+
+.nice{
+  width:100%
+  height:30px;
+  border-radius: 3px;
+  margin-top:10px;
+  margin-bottom: 20px;
+}
+
+.centered{
+  text-align: center;
+  width:100%;
+}
+
+.login{
+  width:300px;
+  border-radius: 3px;
+  margin-bottom: 20px;
+
+}
+select {
+    width: 100%;
+    font-size:16px;
+}
+
+.container p{
+  color:red;
+}
+
+span{
+    color:red;
+}
+
+h1{ font-size: 1.7em; }
+h2{ font-size: 1.5em; }
+
+
+
+body{
+    font-family: arial;
+    font-size: 80%;
+    line-height: 1.2em;
+    width: 100%;
+    /*margin: 0; */
+    background: #eee;
+}
+
+#page{ margin: 20px; }
+
+
+#navigation{
+	width: 60%;
+	display: inline-block;
+	text-align: right;
+	float: right;
+}
+
+#navigation ul li{
+/*	display: inline-block;
+	height: 62px;*/
+  float: left;
+	height: 62px;
+	list-style: none;
+	position: relative;
+}
+
+#navigation .dropdown{
+  position:absolute;
+  top:100%;
+  left:0;
+  display:none;
+}
+
+a{
+	color: Blue;
+	text-decoration: none;
+}
+
+a:hover {
+    background-color: lightblue;
+}
+
+
+
+#navigation ul li a{
+	padding: 20px;
+	background: lightblue;
+	color: white;
+}
+#navigation ul li a:hover{
+  background:blue;
+
+}
+
+ul{
+  margin:0;
+  padding:0;
+}
+
+table{
+  margin:0 auto;
+}
+
+.mySlides img {
+  margin: 0 auto;
+  display: block;
+}
+
+h5{
+  font-size: 15px;
+  color: blue;
+
+}
+
+div #product{
+  height:180px;
+  width: 180px;
+
+  margin:20px;
+  float:left;
+}
+
+div #title{
+  display: inline;
+  float: left;
+  font-size: 23px;
+  font-family: sans-serif;
+  color: red;
+  margin: 0px;
+
+}
+
+h8 {
+  font-size: 18px;
+  font-color: blue;
+}
+
+div #product1{
+left: 0px;
+top:0px;
+width: 100%;
+
+}
+
+.quantity,.size{
+  width:
+}
+
+
+.container select{
+  width:200px;
+}
+
+.addtobag{
+  width:200px;
+}
